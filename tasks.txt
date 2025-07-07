@@ -1,0 +1,9 @@
+Shopping;;Gate pass approval .;;5;;2025-05-09;;false
+Call friend;;Trip discussion;;8;;2025-05-10;;false
+Buy Groceries;;Go to market;;7;;2025-05-18;;true
+Meeting friends;;Girly pop;;6;;2025-05-19;;false
+Assignment;;Complete before monday;;6;;2025-05-20;;true
+Question Solving;;Practice 5 DSA Questions for today.;;3;;2025-05-23;;false
+Family Trip;;thunder and thrill movie;;9;;2025-06-19;;true
+Hair Color;;New Look Book;;4;;2025-05-15;;true
+xyz;;deowe;;2;;2025-05-19;;false
